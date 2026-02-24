@@ -16,5 +16,6 @@ For educational and research use only
     the none conform files have unnecessary zero index removed .
 
 # start compile
+  Dosbox is needed to compile
   open Project folder, goto either  source you want, compile scripts have been copied from parser .
   hit RunCompile.py and relax
